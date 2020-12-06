@@ -2,13 +2,6 @@
 
 This is a repository for NYU DS 1001 project.
 
-## Contributors:
-
-*   Si Gao (si.gao@nyu.edu)
-*   Xinli Gu (xg588@nyu.edu)
-*   Xirui Fu (xf620@nyu.edu)
-*   Wenxin Zhang (wz2164@nyu.edu)
-
 ## Data:
 
 Yelp Open Dataset (https://www.yelp.com/dataset)

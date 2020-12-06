@@ -1,6 +1,6 @@
 # FancyYelpers: Yelp Restaurant Recommender System
 
-This is a repository for NYU DS 1001 project.
+DS 1001 Project, Fall 2020
 
 ## Data:
 

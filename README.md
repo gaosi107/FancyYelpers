@@ -1,6 +1,6 @@
 # FancyYelpers: Yelp Restaurant Recommender System
 
-DS 1001 Project, Fall 2020
+NYU Data Science 1001 Project, Fall 2020
 
 ## Data:
 

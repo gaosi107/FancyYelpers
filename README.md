@@ -33,6 +33,13 @@ The advent of crowd-sourcing review platforms makes business information readily
 
 The final report can be found [here](DSGA1001_project_Yelp_RecSys.pdf)
 
+## Team Members:
+
+*   Si (Steve) Gao (si.gao@nyu.edu)
+*   Xinli Gu (xg588@nyu.edu)
+*   Xirui Fu (xf620@nyu.edu)
+*   Wenxin Zhang (wz2164@nyu.edu)
+
 ## Questions?
 
-Please feel free to contact us via email should you have any questions or would like to contribute.
+Please feel free to contact me should you have any questions.
